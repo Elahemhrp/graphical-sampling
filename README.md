@@ -177,7 +177,7 @@ If you use `graphical-sampling`, please cite the software package. If you use th
 
 ```bibtex
 @software{graphical_sampling_2025,
-  author = {Panahbehagh, Bardia and Mohebbi, Mehdi and Moharrampour, Elahe and HosseiniNasab, Amir Mohammad and Hosseini Moghadam, Mehdi},
+  author = {Panahbehagh, Bardia and Moharrampour, Elahe and Mohebbi, Mehdi and  HosseiniNasab, Amir Mohammad and Hosseini Moghadam, Mehdi},
   title  = {graphical-sampling: A Python package for graphical finite-population and spatial sampling},
   year   = {2025},
   url    = {https://github.com/mehdimhb/graphical-sampling},
